@@ -1,4 +1,4 @@
-tasks = []
+tasks = None
 def show_menu():
     print("\n--- TO-DO LIST MANAGER ---")
     print("1. Add Task")
